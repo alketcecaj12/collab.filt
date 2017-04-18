@@ -1,0 +1,39 @@
+Lisa Rose,Lady in the water,2.5
+Lisa Rose,Snakes on a plane,3.5
+Lisa Rose,Just my luck,3.0
+Lisa Rose,Superman returns,3.5
+Lisa Rose,The night Listener,3.0
+Lisa Rose,You me and Dupree,2.5
+Gene Seymour,Lady in the water,1.5
+Gene Seymour,Snakes on a plane,1.5
+Gene Seymour,Just my luck,2.0
+Gene Seymour,Superman returns,2.5
+Gene Seymour,The night Listener,1.0
+Gene Seymour,You me and Dupree,1.5
+Michael Phillips,Ladyinthewater,1.5
+Michael Phillips,Snakes on a plane,4.5
+Michael Phillips,Just my luck,3.5
+Michael Phillips,Superman returns,1.5
+Michael Phillips,The night Listener,1.0
+Michael Phillips,You me and Dupree,1.5
+Mick Lasalle,Ladyinthewater,4.5
+Mick Lasalle,Snakes on a plane,1.5
+Mick Lasalle,Just my luck,0.5
+Mick Lasalle,Superman returns,2.5
+Mick Lasalle,The night Listener,2.0
+Mick Lasalle,You me and Dupree,3.5
+Toby,Lady in the water,2.5
+Toby,Snakes on a plane,3.5
+Toby,Just my luck,2.0
+Claudia Puig,Lady in the water,2.5
+Claudia Puig,Snakes on a plane,3.5
+Claudia Puig,Just my luck,5.0
+Claudia Puig,Superman returns,1.0
+Claudia Puig,The night Listener,2.0
+Claudia Puig,You me and Dupree,3.5
+Jack Matthews,Lady in the water,2.5
+Jack Matthews,Snakes on a plane,3.5
+Jack Matthews,Just my luck,5.0
+Jack Matthews,Superman returns,1.0
+Jack Matthews,The night Listener,2.0
+Jack Matthews,You me and Dupree,3.5
